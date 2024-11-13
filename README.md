@@ -1,1 +1,1 @@
-Compte créé par <amtracey> pour le cours SCI6201 de l'EBSI
+Compte créé par <adelaide> pour le cours SCI6201 de l'EBSI
