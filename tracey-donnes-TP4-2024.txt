@@ -1,0 +1,1593 @@
+{
+ "@context": {
+    "spatial": "http://purl.org/dc/terms/#spatial",
+    "created": "http://purl.org/dc/terms/#created",
+    "subject": "http://purl.org/dc/terms/#subject",
+    "creator": "http://purl.org/dc/terms/#creator"
+  },
+
+"@graph" : [
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000056",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-20T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000077",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000098",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000106",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000127",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000148",
+      "subject" : ["https://www.wikidata.org/wiki/Q1193366", "Tangara écarlate"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000169",
+      "subject" : ["https://www.wikidata.org/wiki/Q754043", "Carouge à épaulettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000006",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000190",
+      "subject" : ["https://www.wikidata.org/wiki/Q245181", "Urubu à tête rouge"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2874904", "Aylmer"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-30T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000027",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000219",
+      "subject" : ["https://www.wikidata.org/wiki/Q282687", "Mésange à tête noire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-27T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000048",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-17T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000069",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000090",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000119",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000140",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000161",
+      "subject" : ["https://www.wikidata.org/wiki/Q754043", "Carouge à épaulettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000182",
+      "subject" : ["https://www.wikidata.org/wiki/Q184314", "Jaseur des cèdres"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000019",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000211",
+      "subject" : ["https://www.wikidata.org/wiki/Q199758", "Geai bleu"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000040",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000061",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000082",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000111",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000132",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000153",
+      "subject" : ["https://www.wikidata.org/wiki/Q754885", "Goéland à bec cerclé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3114873", "Grande-Baie"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000174",
+      "subject" : ["https://www.wikidata.org/wiki/Q190342", "Huard"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-14T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000195",
+      "subject" : ["https://www.wikidata.org/wiki/Q190342", "Huard à collier"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000011",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000203",
+      "subject" : ["https://www.wikidata.org/wiki/Q199758", "Geai bleu"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000032",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000224",
+      "subject" : ["https://www.wikidata.org/wiki/Q755737", "Pluvier kildir"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-29T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000053",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000074",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000095",
+      "subject" : ["https://www.wikidata.org/wiki/Q20754771", "Sizerin flammé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000103",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000124",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000145",
+      "subject" : ["https://www.wikidata.org/wiki/Q943329", "Engoulevent d'Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000166",
+      "subject" : ["https://www.wikidata.org/wiki/Q26135", "Jaseur boréal"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000187",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-27T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000003",
+      "subject" : ["https://www.wikidata.org/wiki/Q26597", "Canard kakawi"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139109", "Beauharnois"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-11-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000024",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000216",
+      "subject" : ["https://www.wikidata.org/wiki/Q26135", "Jaseur boréal"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000045",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-17T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000066",
+      "subject" : ["https://www.wikidata.org/wiki/Q846350", "Grive solitaire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000087",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000116",
+      "subject" : ["https://www.wikidata.org/wiki/Q251939", "Petit-duc maculé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-02-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000137",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141977", "Saint-Jean-sur-Richelieu"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000158",
+      "subject" : ["https://www.wikidata.org/wiki/Q1193366", "Tangara écarlate"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141954", "Roberval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000179",
+      "subject" : ["https://www.wikidata.org/wiki/Q333796", "Grand héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-19T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000016",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000208",
+      "subject" : ["https://www.wikidata.org/wiki/Q184314", "Jaseur des cèdres"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000037",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-13T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000058",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000079",
+      "subject" : ["https://www.wikidata.org/wiki/Q20754771", "Sizerin flammé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000108",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000129",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141977", "Saint-Jean-sur-Richelieu"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000150",
+      "subject" : ["https://www.wikidata.org/wiki/Q725289", "Cormoran à aigrettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3114873", "Grande-Baie"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000171",
+      "subject" : ["https://www.wikidata.org/wiki/Q754043", "Carouge à épaulettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-11T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000008",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000192",
+      "subject" : ["https://www.wikidata.org/wiki/Q469586", "Petit blongios"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3391043", "Plaisance"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-07-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000029",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000200",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000221",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000050",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000071",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000092",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000100",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000121",
+      "subject" : ["https://www.wikidata.org/wiki/Q29865", "Garrot à œil d'or"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3419594", "Rapides-des-Joachims"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000142",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000163",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000184",
+      "subject" : ["https://www.wikidata.org/wiki/Q1071571", "Tyran tritri"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000021",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000213",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000042",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-16T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000063",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000084",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000113",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-02-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000134",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000155",
+      "subject" : ["https://www.wikidata.org/wiki/Q754885", "Goéland à bec cerclé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3114873", "Grande-Baie"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-19T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000176",
+      "subject" : ["https://www.wikidata.org/wiki/Q282687", "Mésange à tête noire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-16T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000197",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000013",
+      "subject" : ["https://www.wikidata.org/wiki/Q846350", "Grive solitaire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000205",
+      "subject" : ["https://www.wikidata.org/wiki/Q199758", "Geai bleu"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000034",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000226",
+      "subject" : ["https://www.wikidata.org/wiki/Q1071571", "Tyran tritri"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142333", "Saint-Bruno-de-Montarville"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-31T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000055",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-19T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000076",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000097",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000105",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000126",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000147",
+      "subject" : ["https://www.wikidata.org/wiki/Q669888", "Paruline noir et blanc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000168",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000189",
+      "subject" : ["https://www.wikidata.org/wiki/Q199758", "Geai bleu"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-29T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000005",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000026",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000218",
+      "subject" : ["https://www.wikidata.org/wiki/Q282687", "Mésange à tête noire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-27T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000047",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-17T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000068",
+      "subject" : ["https://www.wikidata.org/wiki/Q20754771", "Sizerin flammé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000089",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000118",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000139",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000160",
+      "subject" : ["https://www.wikidata.org/wiki/Q25348", "Canard colvert"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3391043", "Plaisance"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000181",
+      "subject" : ["https://www.wikidata.org/wiki/Q18789", "Héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000018",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte familier"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000039",
+      "subject" : ["https://www.wikidata.org/wiki/Q26552", "Bec-croisé rouge"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142426", "Saint-Lazare"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000210",
+      "subject" : ["https://www.wikidata.org/wiki/Q1071571", "Tyran tritri"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000060",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000081",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000110",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141977", "Saint-Jean-sur-Richelieu"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000131",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000152",
+      "subject" : ["https://www.wikidata.org/wiki/Q725289", "Cormoran à aigrettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3114873", "Grande-Baie"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000173",
+      "subject" : ["https://www.wikidata.org/wiki/Q80858", "Geai du Canada"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3419594", "Rapides-des-Joachims"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-13T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000194",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000010",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000202",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000031",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000223",
+      "subject" : ["https://www.wikidata.org/wiki/Q1071571", "Tyran tritri"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000052",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000073",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142333", "Saint-Bruno-de-Montarville"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000094",
+      "subject" : ["https://www.wikidata.org/wiki/Q20754771", "Sizerin flammé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000102",
+      "subject" : ["https://www.wikidata.org/wiki/Q127216", "Pygargue à tête blanche"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3419594", "Rapides-des-Joachims"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000123",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000144",
+      "subject" : ["https://www.wikidata.org/wiki/Q18875", "Sterne pierregarin"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139109", "Beauharnois"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000165",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000186",
+      "subject" : ["https://www.wikidata.org/wiki/Q190342", "Huard à collier"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000002",
+      "subject" : ["https://www.wikidata.org/wiki/Q127216", "Pygargue à tête blanche"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q63242528", "Bergeronnes"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-11-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000023",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142333", "Saint-Bruno-de-Montarville"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000215",
+      "subject" : ["https://www.wikidata.org/wiki/Q26135", "Jaseur boréal"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000044",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-16T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000065",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000086",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142333", "Saint-Bruno-de-Montarville"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000115",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-02-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000136",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141724", "Saint-Jérôme"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000157",
+      "subject" : ["https://www.wikidata.org/wiki/Q172093", "Oie rieuse"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3393500", "Pointe-Lebel"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000178",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000199",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000015",
+      "subject" : ["https://www.wikidata.org/wiki/Q846350", "Grive solitaire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000207",
+      "subject" : ["https://www.wikidata.org/wiki/Q378533", "Morillon à dos blanc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000036",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000057",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-20T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000078",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-27T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000099",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000107",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000128",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000149",
+      "subject" : ["https://www.wikidata.org/wiki/Q26675", "Fou de Bassan"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q63242528", "Bergeronnes"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000170",
+      "subject" : ["https://www.wikidata.org/wiki/Q184314", "Jaseur des cèdres"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000007",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000191",
+      "subject" : ["https://www.wikidata.org/wiki/Q184314", "Jaseur des cèdres"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-07-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000028",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000049",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000220",
+      "subject" : ["https://www.wikidata.org/wiki/Q282687", "Mésange à tête noire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000070",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000091",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000120",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000141",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000162",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142426", "Saint-Lazare"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000183",
+      "subject" : ["https://www.wikidata.org/wiki/Q755737", "Pluvier kildir"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000020",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000212",
+      "subject" : ["https://www.wikidata.org/wiki/Q333796", "Grand héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000041",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000062",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000083",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000112",
+      "subject" : ["https://www.wikidata.org/wiki/Q1259965", "Pic à dos noir"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q518076", "Verdun"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000133",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000154",
+      "subject" : ["https://www.wikidata.org/wiki/Q26733", "Bernache du Canada"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3391043", "Plaisance"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-19T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000175",
+      "subject" : ["https://www.wikidata.org/wiki/Q333796", "Grand héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000196",
+      "subject" : ["https://www.wikidata.org/wiki/Q755737", "Pluvier kildir"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000012",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000204",
+      "subject" : ["https://www.wikidata.org/wiki/Q199758", "Geai bleu"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000033",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-10T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000225",
+      "subject" : ["https://www.wikidata.org/wiki/Q1071571", "Tyran tritri"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-31T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000054",
+      "subject" : ["https://www.wikidata.org/wiki/Q25357", "Grand Corbeau"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-19T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000075",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000096",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000104",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000125",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000146",
+      "subject" : ["https://www.wikidata.org/wiki/Q1367569", "Grive à joues grises"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000167",
+      "subject" : ["https://www.wikidata.org/wiki/Q846350", "Grive solitaire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000188",
+      "subject" : ["https://www.wikidata.org/wiki/Q333796", "Grand héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000004",
+      "subject" : ["https://www.wikidata.org/wiki/Q174232", "Goéland arctique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139109", "Beauharnois"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-11-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000025",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000217",
+      "subject" : ["https://www.wikidata.org/wiki/Q184314", "Jaseur des cèdres"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000046",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-17T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000067",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000088",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000117",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000138",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1714436", "Montréal-Nord"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000159",
+      "subject" : ["https://www.wikidata.org/wiki/Q172093", "Oie rieuse"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3391043", "Plaisance"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000180",
+      "subject" : ["https://www.wikidata.org/wiki/Q190342", "Huard"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-20T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000017",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-05T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000209",
+      "subject" : ["https://www.wikidata.org/wiki/Q755737", "Pluvier kildir"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000038",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141724", "Saint-Jérôme"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-15T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000059",
+      "subject" : ["https://www.wikidata.org/wiki/Q207249", "Alouette cornnue"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000080",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-29T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000109",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000130",
+      "subject" : ["https://www.wikidata.org/wiki/Q25469", "Étourneau sansonnet"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000151",
+      "subject" : ["https://www.wikidata.org/wiki/Q754885", "Goéland à bec cerclé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q3114873", "Grande-Baie"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-12T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000172",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-12T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000009",
+      "subject" : ["https://www.wikidata.org/wiki/Q170177", "Harfang des neiges"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2932587", "Cacouna"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000193",
+      "subject" : ["https://www.wikidata.org/wiki/Q339517", "Bec-croisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000201",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-23T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000030",
+      "subject" : ["https://www.wikidata.org/wiki/Q525818", "Junco ardoisé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-08T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000222",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139473", "Sherbrooke"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-28T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000051",
+      "subject" : ["https://www.wikidata.org/wiki/Q846350", "Griv solitaire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q1336", "Rimouski"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-18T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000072",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000093",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000101",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-06T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000122",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-03T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000143",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-04-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000164",
+      "subject" : ["https://www.wikidata.org/wiki/Q754043", "Carouge à épaulettes"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000185",
+      "subject" : ["https://www.wikidata.org/wiki/Q282687", "Mésange à tête noire"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-25T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000001",
+      "subject" : ["https://www.wikidata.org/wiki/Q378533", "Fuligule à dos blanc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139109", "Beauharnois"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-11-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000022",
+      "subject" : ["https://www.wikidata.org/wiki/Q651545", "Crécerelle d’Amérique"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-07T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000214",
+      "subject" : ["https://www.wikidata.org/wiki/Q130933", "Grand-duc"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139398", "Longueuil"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-26T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000043",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075782", "Roselin pourpré"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q44012", "Trois-Rivières"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-16T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000064",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000085",
+      "subject" : ["https://www.wikidata.org/wiki/Q20754771", "Sizerin flammé"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141844", "Gatineau"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-01-02T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000114",
+      "subject" : ["https://www.wikidata.org/wiki/Q1063246", "Roitelet à couronne dorée"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q2145", "Québec"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-02-01T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000135",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141881", "Granby"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-03-09T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000156",
+      "subject" : ["https://www.wikidata.org/wiki/Q599921", "Grive des bois"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141954", "Roberval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-05-21T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000177",
+      "subject" : ["https://www.wikidata.org/wiki/Q26135", "Jaseur boréal"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-06-17T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000198",
+      "subject" : ["https://www.wikidata.org/wiki/Q27075861", "Chardonneret jaune"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q142246", "Lac-Brome"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-22T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000014",
+      "subject" : ["https://www.wikidata.org/wiki/Q524799", "Troglodyte familier"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q340", "Montréal"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-04T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000206",
+      "subject" : ["https://www.wikidata.org/wiki/Q333796", "Grand héron"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q139208", "Lévis"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2020-08-24T00:00:00Z"
+    },
+    {
+      "@id" : "https://dasylva.ebsi.umontreal.ca/SCI6201/2024/TP3-ressource-rdf/#SCI6201-2024-0000035",
+      "subject" : ["https://www.wikidata.org/wiki/Q16819", "Pic flamboyant"],
+      "spatial" : ["https://www.wikidata.org/wiki/Q141810", "Laval"],
+      "creator" : "membre du club orinthologique",
+      "created" : "2019-12-10T00:00:00Z"
+    }
+  ]
+}
